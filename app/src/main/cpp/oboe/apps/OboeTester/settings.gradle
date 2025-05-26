@@ -1,0 +1,3 @@
+package oboe.apps.OboeTester
+
+include ':app'
